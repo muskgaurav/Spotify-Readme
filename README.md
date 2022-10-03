@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  A dynamic, customizable, and real-time Spotify now-playing widget for your README files. If you're not currently playing a song, it'll display one of your recent songs! It's width is sized like other common README widgets, so can be uniformly paired (<a href="https://github.com/itstommi/itstommi">see it in action</a> on my own README). Feel free to ask for help or make any PRs/issues/suggestions 😄
+  A dynamic, customizable, and real-time Spotify now-playing widget for your README files. If you're not currently playing a song, it'll display one of your recent songs! It's width is sized like other common README widgets, so can be uniformly paired (<a href="https://github.com/itstommi/itstommi">see it in action</a> on my own README). Feel free to ask for help or make any PRs 😄
 </p>
 
 ## Customization Previews
