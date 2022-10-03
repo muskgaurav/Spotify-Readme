@@ -1,6 +1,6 @@
 <div align="center">
   <img src="spotify.svg" width="100" align="center">
-  <h1>Spotify Readme</h1>
+  <h1>Spotify ReadMe.md</h1>
 
   [![Badge](https://img.shields.io/github/issues/itstommi/Spotify-Readme?style=for-the-badge)](https://github.com/itstommi/Spotify-Readme/issues)
   [![Badge](https://img.shields.io/github/forks/itstommi/Spotify-Readme?style=for-the-badge)](https://github.com/itstommi/Spotify-Readme/network)
